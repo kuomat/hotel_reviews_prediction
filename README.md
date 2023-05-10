@@ -1,2 +1,2 @@
 # hotel_reviews_prediction
-NLP 
+CIS 5450 Group Project
